@@ -1,0 +1,8 @@
+{
+  "name": "cadence-process-mining",
+  "version": "1.0.0",
+  "description": "Cadence — process intelligence for Lean Six Sigma",
+  "scripts": {
+    "start": "npx serve -s . -l ${PORT:-3000}"
+  }
+}
